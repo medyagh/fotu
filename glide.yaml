@@ -1,0 +1,9 @@
+package: fotu
+import:
+- package: github.com/pressly/chi
+- package: github.com/caarlos0/env
+- package: github.com/Sirupsen/logrus
+
+
+
+

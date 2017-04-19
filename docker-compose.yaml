@@ -1,0 +1,9 @@
+---
+services:
+  fotu:
+    build: .
+    env_file:
+      - .env
+    ports:
+      - 3013:3013
+version: "2"
